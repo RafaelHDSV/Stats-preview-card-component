@@ -20,9 +20,13 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
-
-![](images/desktop.png)
-![](images/mobile.png)
+  - Desktop
+  
+    ![](/images/desktop.png)
+    
+  - Mobile
+  
+    ![](/images/mobile.png)
 
 ### Links
 
